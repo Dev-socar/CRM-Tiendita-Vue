@@ -1,29 +1,50 @@
-# crm-tienda
+# CRM Tiendita Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+CRM para manejar vendedores, articulos y llevar cierto control de ellos.
 
-## Recommended IDE Setup
+## 💻 Aplicación Frontend
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🧰 Stack de desarrollo
+![Vue.js](https://img.shields.io/badge/Vue.js-00D084?style=for-the-badge&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Formkit](https://img.shields.io/badge/formkit-00D084?style=for-the-badge&logo=vue.js&logoColor=red)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Customize configuration
+## 🚀 Deploy
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+##  📲 Instalación
+Necesitas tener instalado node.js en tu computadora.
+1. Clonar repositorio
+```bash
+git clone https://github.com/Dev-socar/CRM-Tiendita-Vue.git
+```
+2. Ir a la carpeta del proyecto
+```bash
+cd directorio_del_proyecto
+```
+3. Instalar dependencias
+```bash
 npm install
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
+4. Arrancar servidor de desarrollo
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
-
 ```sh
-npm run build
+Para la base datos, se uso json-server.
 ```
+## 😎 Características
+
+- ✅ Axios  
+- ✅ Formularios con Formkit
+- ✅ Alertas con SweetAlert
+- ✅ Routig
+- ✅ Y más
+
+## 🧑🏽‍💻 Desarrollador
+
+[Omar Fernando Solís Carvajal](https://portfolio-omar-solis.vercel.app/)
